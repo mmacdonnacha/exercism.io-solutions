@@ -1,60 +1,28 @@
-# exercism.io-solutions
+# Exercism.io Solutions
+
+Completion Rate  
+Java Exercises 19 / 114  
+Javascript Exercises 3 / 107 
 
 
-| Exercise | Java |
-| --- | --- |
-| Hello World  | [done](java/Hello%20World/Greeter.java) |
+| Exercise | Java | Javascript |
+| --- | --- | --- |
+| Hello World  | [done](java/Hello%20World/Greeter.java) | [done](javascript/Hello%20World/hello-world.js) |
 | Leap | [done](java/Leap/Leap.java) | 
 | Armstrong Numbers | [done](java/Armstrong%20Number/ArmstrongNumbers.java) |
 | RNA Transcription | [done](java/RNA%20Transcription/RnaTranscription.java) |
 | Pangram | [done](java/Pangram/PangramChecker.java) |
 | Space Age | [done](java/Space%20Age/SpaceAge.java) |
-| Acronym |  |
+| Acronym | [done](java/Acronym/Acronym.java) |
 | Raindrops | [done](java/Raindrops/RaindropConverter.java) |
-| Isogram |  |
-| Pig Latin |  |
-| Anagram |  |
-| Two Fer  | [done](java/Two%20Fer/Twofer.java) |
+| Anagram | [done](java/Anagram/Anagram.java) |
+| Two Fer  | [done](java/Two%20Fer/Twofer.java) | [done](javascript/Two%20Fer/two-fer.js) |
 | Reverse String | [done](java/Reverse%20String/ReverseString.java) |
 | Protein Translation | [done](java/Protein%20Translation/ProteinTranslator.java) |
-| Proverb |  |
-| Twelve Days |  |
-| Diamond |  |
-| Bob |  |
-| House |  |
-| Food Chain |  |
-| Beer Song |  | 
 | Darts | [done](java/Darts/Darts.java) |
-| D&D Character |  |
-| Resistor Color |  |
-| Grains |  |
-| Resistor Color Duo |  |
-| Micro Blog |  |
+| Resistor Color | [done](java/Resistor%20Color/ResistorColor.java) | [done](javascript/Resistor%20Color/resistor-color.js) |
 | Hamming | [done](java/Hamming/Hamming.java) |
 | ISBN Verifier | [done](java/ISBN%20Verifier/IsbnVerifier.java) |
-| Luhn |  |
-| Largest Series Product |  |
-| Phone Number |  |
-| Nucleotide Count |  |
-| Series |  |
-| Roman Numberals |  |
-| Knapsack |  |
 | Gigasecond | [done](java/Gigasecond/Gigasecond.java) |
-| Allergies |  |
-| Meetup |  |
 | Scrabble Score | [done](java/Scrabble%20Score/Scrabble.java) |
-| Queen Attack |  |
-| Minesweeper |  |
-| Bowling |  |
-| Word Search |  |
-| Markdown |  |
-| Poker |  |
-| Go Counting |  |
-| Dominoes |  |
-| Yacht |  |
 | Difference Of Squares | [done](java/Difference%20Of%20Squares/DifferenceOfSquaresCalculator.java) |
-| Perfect Numbers |  |
-| Sum Of Multiples |  |
-| Sieve |  |
-| Say |  |
-| Secret Handshake |  |
