@@ -17,13 +17,13 @@
 | Two Fer  | [done](java/Two%20Fer/Twofer.java) |
 | Reverse String | [done](java/Reverse%20String/ReverseString.java) |
 | Protein Translation | [done](java/Protein%20Translation/ProteinTranslator.java) |
-<!-- | Proverb |  |
+| Proverb |  |
 | Twelve Days |  |
 | Diamond |  |
 | Bob |  |
 | House |  |
 | Food Chain |  |
-| Beer Song |  | -->
+| Beer Song |  | 
 | Darts | [done](java/Darts/Darts.java) |
 | D&D Character |  |
 | Resistor Color |  |
@@ -43,13 +43,18 @@
 | Allergies |  |
 | Meetup |  |
 | Scrabble Score | [done](java/Scrabble%20Score/Scrabble.java) |
-| Leap |  |
-| Leap |  |
-| Leap |  |
-| Leap |  |
-| Leap |  |
-| Leap |  |
-| Leap |  |
-| Leap |  |
-| Leap |  |
+| Queen Attack |  |
+| Minesweeper |  |
+| Bowling |  |
+| Word Search |  |
+| Markdown |  |
+| Poker |  |
+| Go Counting |  |
+| Dominoes |  |
+| Yacht |  |
 | Difference Of Squares | [done](java/Difference%20Of%20Squares/DifferenceOfSquaresCalculator.java) |
+| Perfect Numbers |  |
+| Sum Of Multiples |  |
+| Sieve |  |
+| Say |  |
+| Secret Handshake |  |
