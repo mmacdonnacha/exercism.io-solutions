@@ -4,7 +4,7 @@
 | Exercise | Java |
 | --- | --- |
 | Hello World  | [done](java/Hello%20World/Greeter.java) |
-| Leap |  | 
+| Leap | [done](java/Leap/Leap.java) | 
 | Armstrong Numbers | [done](java/Armstrong%20Number/ArmstrongNumbers.java) |
 | RNA Transcription | [done](java/RNA%20Transcription/RnaTranscription.java) |
 | Pangram | [done](java/Pangram/PangramChecker.java) |
