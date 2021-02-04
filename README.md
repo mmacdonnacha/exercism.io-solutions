@@ -1,23 +1,24 @@
 # Exercism.io Solutions
 
-Completion Rate  
-Java Exercises 19 / 114  
-Javascript Exercises 3 / 107 
+| Completion Rate | | 
+| --- | --- |  
+| Java | 24 / 114 |  
+| Javascript | 3 / 107 |  
 
 
 | Exercise | Java | Javascript |
 | --- | --- | --- |
-| **Hello World**  | [done](java/Hello%20World/Greeter.java) | [done](javascript/Hello%20World/hello-world.js) |
-| Leap | [done](java/Leap/Leap.java) |
-| Armstrong Numbers | [done](java/Armstrong%20Number/ArmstrongNumbers.java) |
-| RNA Transcription | [done](java/RNA%20Transcription/RnaTranscription.java) |
-| Pangram | [done](java/Pangram/PangramChecker.java) |
-| Space Age | [done](java/Space%20Age/SpaceAge.java) |
-| Acronym | [done](java/Acronym/Acronym.java) |
-| Raindrops | [done](java/Raindrops/RaindropConverter.java) |
-| Isogram | |
+| **Hello World**  | [done](java/Hello%20World/) | [done](javascript/Hello%20World/hello-world.js) |
+| Leap | [done](java/Leap/) |
+| Armstrong Numbers | [done](java/Armstrong%20Number/) |
+| RNA Transcription | [done](java/RNA%20Transcription/) |
+| Pangram | [done](java/Pangram/) |
+| Space Age | [done](java/Space%20Age/) |
+| Acronym | [done](java/Acronym/) |
+| Raindrops | [done](java/Raindrops/) |
+| Isogram | [done](java/Isogram/) |
 | Pig Latin | |
-| Anagram | [done](java/Anagram/Anagram.java) |
+| Anagram | [done](java/Anagram/) |
 | **Two Fer**  | [done](java/Two%20Fer/Twofer.java) | [done](javascript/Two%20Fer/two-fer.js) |
 | Reverse String | [done](java/Reverse%20String/ReverseString.java) |
 | Protein Translation | [done](java/Protein%20Translation/ProteinTranslator.java) |

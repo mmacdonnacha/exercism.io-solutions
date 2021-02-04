@@ -14,7 +14,6 @@ public class PangramChecker {
         }
         return true;
 
-        //throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
     }
 
 }
