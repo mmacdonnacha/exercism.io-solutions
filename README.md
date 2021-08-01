@@ -7,7 +7,7 @@
 
 
 | Exercise | Java | Javascript |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | **Hello World**  | [done](java/Hello%20World/) | [done](javascript/Hello%20World/hello-world.js) |
 | Leap | [done](java/Leap/) |
 | Armstrong Numbers | [done](java/Armstrong%20Number/) |
@@ -33,15 +33,16 @@
 | DnD Character | [done](java/DnD%20Character/) 
 | Resistor Color | [done](java/Resistor%20Color/) | [done](javascript/Resistor%20Color/resistor-color.js) |
 | Grains | |
-| Resistor Color Duo | [done](java/Resistor%20Color%20Duo/) |
+| Resistor Color Duo | [done](java/Resistor%20Color%20Duo/) ||
 | Micro Blog | |
-| **Hamming** | [done](java/Hamming/) |
-| ISBN Verifier | [done](java/ISBN%20Verifier/) |
-| Nucleotide Count | [done](java/Nucleotide%20Count/) |
-| **Gigasecond** | [done](java/Gigasecond/) |
+| **Hamming** | [done](java/Hamming/) ||
+| ISBN Verifier | [done](java/ISBN%20Verifier/) ||
+| Nucleotide Count | [done](java/Nucleotide%20Count/) ||
+| **Gigasecond** | [done](java/Gigasecond/) ||
 | Allergies | |
 | Meetup | |
-| **Scrabble Score** | [done](java/Scrabble%20Score/) |
-| **Difference Of Squares** | [done](java/Difference%20Of%20Squares/) |
-| Perfect Numbers | [done](java/Perfect%20Numbers/) |
-| **Secret Handshake** | [done](java/Secret%20Handshake/) |
+| **Scrabble Score** | [done](java/Scrabble%20Score/) ||
+| **Difference Of Squares** | [done](java/Difference%20Of%20Squares/) ||
+| Perfect Numbers | [done](java/Perfect%20Numbers/) ||
+| **Secret Handshake** | [done](java/Secret%20Handshake/) ||
+| **Matrix** | [current](java/Matrix/) ||
